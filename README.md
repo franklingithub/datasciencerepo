@@ -1,4 +1,4 @@
-# datascienceprojects
+# datascienceproject
 I worked on 911 calls for the Louisiana state and analyzed reasons behind call / top 5 complaints etc.
 
 For this capstone project i worked on 911 call data from Kaggle. The data contains the following fields:
