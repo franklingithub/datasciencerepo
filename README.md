@@ -17,4 +17,4 @@ e: String variable, Dummy variable (always 1)
 
 
 #DrawingFlowersUsingMathematics
-I have created different flowers using complete mathematics including the use of sin, cos functions as well.
+I have created different flowers using complete mathematics including the use of sin, cos functions as well. I have used ggplot to create visuals.
