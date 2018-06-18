@@ -1,3 +1,5 @@
+This repo contains multiple data analysis projects including Emergency calls analysis for Louisiana State, Drawing Flowers using Mathematics 
+
 #EmergencyCallsAnalysis
 I worked on 911 calls for the Louisiana state and analyzed reasons behind call / top 5 complaints etc.
 
@@ -13,3 +15,6 @@ twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
 
+
+#DrawingFlowersUsingMathematics
+I have created different flowers using complete mathematics including the use of sin, cos functions as well.
