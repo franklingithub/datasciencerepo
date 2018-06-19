@@ -21,3 +21,7 @@ I have created different flowers using complete mathematics including the use of
 
 3) #Takeabreakproject
 I have designed a project in python that will remind me after every 2 hours to take a break by listening to music.
+
+
+#revealsecret message
+I have rename photos (removed numbers from their names) which rearranged the photos to reveal the secret messgae.
