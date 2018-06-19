@@ -25,3 +25,4 @@ I have designed a project in python that will remind me after every 2 hours to t
 
 #revealsecret message
 I have rename photos (removed numbers from their names) which rearranged the photos to reveal the secret messgae.
+**I am not uploading the photos folder as it contained some personal photos as well **
